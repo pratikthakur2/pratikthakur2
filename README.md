@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratik Thakur</h1>
 <h3 align="center">A Data Scientist and Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Full stack and Gen AI**
+- 🔭 I’m currently working on ** NLP, Web dev and  Gen AI**
 
-- 🌱 I’m currently learning **Generative AI, ReactJS, Django**
+- 👯 I’m looking to collaborate on **Full stack projects with Deep learning, NLP | ReactJS |Django,**
 
-- 👯 I’m looking to collaborate on **Full stack projects with ReactJS,Django,**
-
-- 🤝 I’m looking for help with **Backend and API, ML**
+- 🤝 I’m looking for help with **Backend and API, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratikthakur2](https://github.com/pratikthakur2)
 
