@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack projects with Deep learning, NLP | ReactJS |Django**
 
-- 🤝 I’m looking for help with **Backend and API, NLP**
+- 🤝 I’m looking for help with **NLP, GenAI,Backend and API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratikthakur2](https://github.com/pratikthakur2)
 
