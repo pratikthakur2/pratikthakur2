@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NLP, Web dev and  Gen AI**
 
-- 👯 I’m looking to collaborate on **Full stack projects with Deep learning, NLP | ReactJS |Django,**
+- 👯 I’m looking to collaborate on **Full stack projects with Deep learning, NLP | ReactJS |Django**
 
 - 🤝 I’m looking for help with **Backend and API, NLP**
 
