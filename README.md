@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Thakur</h1>
 <h3 align="center">A Data Scientist and Software Engineer from India</h3>
 
-- 🔭 I’m currently working on ** NLP, Web dev and  Gen AI**
+- 🔭 I’m currently working on **NLP, Web dev and  Gen AI**
 
 - 👯 I’m looking to collaborate on **Full stack projects with Deep learning, NLP | ReactJS |Django,**
 
