@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prateekthakur557@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11gg5KP3BIzgvBRvMiOwuJg11iEjqRZy6/view?usp=sharing](https://drive.google.com/file/d/11gg5KP3BIzgvBRvMiOwuJg11iEjqRZy6/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1qA6Np9YzdzGPVOmWQHYhYaIjrm17ZxQU/view?usp=sharing](https://drive.google.com/file/d/1qA6Np9YzdzGPVOmWQHYhYaIjrm17ZxQU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
