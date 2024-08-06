@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratikthakur2](https://github.com/pratikthakur2)
 
-- 💬 Ask me about **Machine learning,C++,SQL,Python**,PowerBi**
+- 💬 Ask me about **Machine learning,AI,C++,SQL,Python,PowerBi**
 
 - 📫 How to reach me **prateekthakur557@gmail.com**
 🇮🇳
