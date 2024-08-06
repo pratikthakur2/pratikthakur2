@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pratik Thakur</h1>
-<h3 align="center">A passionate Data Scientist & Developer from India</h3>
+<h3 align="center">A Data Consultant and Engineer from 🇮🇳</h3>
 
-- 🔭 I’m currently working on **NLP, GenAI**
+- 🔭 I’m currently working on **GenAI**
 
-- 🌱 I’m currently learning **NLP,GenAI & Web Dev**
+- 🌱 I’m currently learning **GenAI & Web Dev**
 
 - 👯 I’m looking to collaborate on **Full stack projects with Deep learning, NLP | ReactJS |Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratikthakur2](https://github.com/pratikthakur2)
 
-- 💬 Ask me about **Machine learning,C++,SQL,Python**
+- 💬 Ask me about **Machine learning,C++,SQL,Python**,PowerBi**
 
 - 📫 How to reach me **prateekthakur557@gmail.com**
-
+🇮🇳
 - 📄 Resume [https://drive.google.com/file/d/1qA6Np9YzdzGPVOmWQHYhYaIjrm17ZxQU/view?usp=sharing](https://drive.google.com/file/d/1qA6Np9YzdzGPVOmWQHYhYaIjrm17ZxQU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
